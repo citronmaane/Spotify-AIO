@@ -1,3 +1,4 @@
+# (DELETE THIS) THIS IS NOT ALL MINE, I JUST FIXED SOME STUFF ON IT & MADE IT BETTER
 import os, requests, random, json, threading
 from colorama import Fore
 
